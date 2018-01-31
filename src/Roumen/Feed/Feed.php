@@ -191,7 +191,7 @@ class Feed
 			'enclosure' => $enclosure,
 			'category' => $category,
 			'subtitle' => $subtitle,
-            'duration' => $duration
+            'duration' => $duration,
 		]);
 	}
 
